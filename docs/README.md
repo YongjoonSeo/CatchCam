@@ -4,7 +4,7 @@
 
 <br>
 
-### Translation: [US](#) [KR](https://lab.ssafy.com/s03-final/s03p31a102)
+### Translation: [US](#) [KR](https://github.com/YongjoonSeo/CatchCam)
 
 <br>
 
